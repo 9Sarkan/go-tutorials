@@ -1,0 +1,15 @@
+mode: set
+/home/cnili/Desktop/w/go-tutorials/testMe/testMe.go:3.20,4.22 1 1
+/home/cnili/Desktop/w/go-tutorials/testMe/testMe.go:7.2,7.26 1 1
+/home/cnili/Desktop/w/go-tutorials/testMe/testMe.go:4.22,6.3 1 1
+/home/cnili/Desktop/w/go-tutorials/testMe/testMe.go:9.20,10.12 1 1
+/home/cnili/Desktop/w/go-tutorials/testMe/testMe.go:13.2,13.12 1 0
+/home/cnili/Desktop/w/go-tutorials/testMe/testMe.go:16.2,16.26 1 0
+/home/cnili/Desktop/w/go-tutorials/testMe/testMe.go:10.12,12.3 1 1
+/home/cnili/Desktop/w/go-tutorials/testMe/testMe.go:13.12,15.3 1 0
+/home/cnili/Desktop/w/go-tutorials/testMe/testMe.go:19.25,20.15 1 1
+/home/cnili/Desktop/w/go-tutorials/testMe/testMe.go:23.2,24.16 2 1
+/home/cnili/Desktop/w/go-tutorials/testMe/testMe.go:27.2,27.12 1 1
+/home/cnili/Desktop/w/go-tutorials/testMe/testMe.go:20.15,22.3 1 1
+/home/cnili/Desktop/w/go-tutorials/testMe/testMe.go:24.16,26.3 1 1
+/home/cnili/Desktop/w/go-tutorials/testMe/testMe.go:29.25,29.44 1 1
